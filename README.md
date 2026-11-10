@@ -15,7 +15,7 @@ Economist working at the intersection of  **Finance, Energy Markets, Risk and Qu
 
 ### Education
 * Economist, BSc Economics @ Universidade de São Paulo 🇧🇷 · Exchanges at Maastricht University and ESCP Business School
-* * MSc Management Engineering @ Politecnico di Milano
+* MSc Management Engineering @ Politecnico di Milano
 
 ### Tools
 Python · R · AMPL · SQL · Power BI · LaTeX · Git 
