@@ -5,7 +5,7 @@ Background in economics. Currently working at the intersection of  **Finance, En
 ## About Me
 * 🙋🏻: Disclaimer: *ALL CODES* are **personally (human)** reviewed. Projects aside from the *"ESG Financial Research"* have participation of AI inputs, namely Claude.
 
-* ⚡: Previously **Risk & Pricing Analyst @ EDF Power Solutions Brazil**: market risk, PPA pricing, credit analysis and data automation for a renewable & LNG portfolio
+* ⚡: Previously **Risk & Pricing Analyst @ EDF Power Solutions Brazil** for over 2 years: market risk, PPA pricing, credit analysis and data automation for a renewable & LNG portfolio
 
 * 🧠: Interested in using Econometrics, Data Science and Quantitative Models to obtain insights and drive knowledge, informed decisions and innovation.
   * high density of work on panel data (longitudinal structures: FE, RE, DiD and later related developments);
