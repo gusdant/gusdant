@@ -4,7 +4,7 @@ Economist working at the intersection of  **Finance, Energy Markets, Risk and Qu
 
 ### About Me
 
-* 🙋🏻: Disclaimer: *ALL CODES* are **personally (human)** reviewed. "Projects aside from the *"ESG Financial Research"* have participation of AI inputs, namely Claude.
+* 🙋🏻: Disclaimer: *ALL CODES* are **personally (human)** reviewed. Projects aside from the *"ESG Financial Research"* have participation of AI inputs, namely Claude.
 
 * 📊: Economist, BSc Economics @ Universidade de São Paulo 🇧🇷 · Exchanges at Maastricht University 🇳🇱 and ESCP 🇫🇷
 * 🎓: MSc Management Engineering @ Politecnico di Milano 🇮🇹
