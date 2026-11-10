@@ -1,8 +1,10 @@
 # Hi, I'm Gustavo 👋
 
-Economist working at the intersection of **energy markets, risk and quantitative modelling**. Based in Milan.
+Economist working at the intersection of  **Finance, Energy Markets, Risk and Quantitative Modelling**. Based in Milan.
 
 ### About Me
+
+* 🙋🏻: Disclaimer: *ALL CODES* are **personally (human)** reviewed. "Projects aside from the *ESG Financial Research* have participation of AI inputs, namely Claude.
 
 * 📊: Economist, BSc Economics @ Universidade de São Paulo 🇧🇷 · exchanges at Maastricht University 🇳🇱 and ESCP 🇫🇷
 * 🎓: MSc Management Engineering @ Politecnico di Milano 🇮🇹
